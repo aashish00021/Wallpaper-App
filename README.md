@@ -50,3 +50,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+
+I used this website for making swipe windows (top tabs) in home https://reactnavigation.org/docs/material-top-tab-navigator
+
+For bottom sheet used in build feature from website https://gorhom.dev/react-native-bottom-sheet/
